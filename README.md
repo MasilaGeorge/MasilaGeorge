@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasilaGeorge
 - 👀 I’m interested in data science, data analytics, and data modeling
-- 🌱 I’m currently learning SQL, Python, MATLAB 
+- 🌱 I’m proficient in SQL, Python, MATLAB, R, Stata 
 - 💞️ I’m looking to collaborate on these areas
 - 📫 How to reach me:
 - email: masilageorge0@gmail.com
